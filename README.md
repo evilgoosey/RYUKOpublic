@@ -1,10 +1,10 @@
-# RYUKO 
+# RYÛKO 
 
 Currently v0.1-devbuild
 
 
 
-Small demo of my planned martial arts fighting card game that currently just runs in the terminal window, based on the RYUKO card game, and featuring dynamic card generation and strategic range management.
+Small demo of my planned martial arts fighting card game that currently just runs in the terminal window, based on the RYÛKO card game, and featuring dynamic card generation and strategic range management.
 
 Testing is currently:
     -By invite only
