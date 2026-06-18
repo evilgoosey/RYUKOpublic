@@ -1,0 +1,475 @@
+
+ ____ _ _ _ ^ _ _  _ ____
+ |--<  Y  |___| |-:_ [__]
+
+
+RYÛKO General Rulebook v5 
+2026 Daniel Pitman
+
+(Skip to section on digital game (5))
+
+1. What Is This Game?
+RYÛKO is a competitive 1v1 fighting card game where each player builds a fighter (deck) to duel with others.
+
+A good fighter will use their Conditioning, Stamina, and Strategy to their advantage, applying special techniques, ranging, tempo, and sheer brutality to acheive several different forms of victory, like Knockouts, Damage, or TKO.
+
+This game is unique in its approach to simulating gritty, brutal, but realistic combat scenarios. These martial artists are not superpowered, glowing, or controlling balls of energy, they are lean, mean, disciplined and grounded warriors coming together to break or be broken.
+
+These are honourable fights. Each fighter only powered by their own will and discipline. Each driven only to ascend.
+
+2. Beginner Rules (Not available in the digital game yet)
+RYÛKO can be a complex game to understand at first. These Beginner Rules can help to learn the basics or to teach the basics to a friend. 
+In beginner mode, ignore Special Cards, Knockout Cards, Injuries, and the Qualities on each cards.
+
+2.1 Setup
+
+2.1.1 Create your Fighter
+Each fighter has 3 stats, Conditioning, Stamina, and Strategy. Conditioning plus Stamina plus Strategy must equal 70. 
+*Conditioning* defines how much health per round you have and how many basic cards your deck can have. Basic cards are the pale attack and block cards. If you conditioning is 40, your deck may have 40 basiccards, with no more than 3 of any card.
+*Stamina* defines the maximum number of cards you can draw from your deck for a single round.
+*Strategy* defines the maximum number of cards that can be held in a hand at any time. However, you only start with 1/2 that.
+
+You can use these as solid starting stats:
+* Conditioning: 40  (gives a reasonable health pool)
+* Stamina: 20       (flexibly allots 40 cards to cover 2-3 rounds)
+* Strategy: 10      (Considerable option available)
+
+40+20+10 = 70        All fighter stats must add up to 70!
+
+Now you can build your deck! Choose a number of Attack and Block cards to match your conditioning, with no more than 3 of any card. This is your base deck and represents your fighter. A useful guideline for beginner rules is to select a ratio of ~3 Attacks to 1 Block.
+
+2.1.2 Layout
+We recommend the two players sit opposite each other at a clear table. Each player will need a pen, paper, and the table needs one range card and marker.
+1. Shuffle your decks place them face down to your left.
+2. Draw the number of unseen cards equal to or below your Stamina stat. This is your "Round Pile", also placed face down and to your left. You can only draw from this pile for the round.
+3. Draw 1/2 of your strategy (rounded up), as your opening your hand, from your Round-Pile. Keep them hidden! Remember, you can never have more cards in your hand than your strategy stat.
+4. To your right, decide on a place for your Discard Pile. Used or discarded cards will be placed here, face down, and stay there for the entire match.
+5. Between the players, place a shared range card and range marker.
+6. Another location is required for the Injury Cards, although this will be of no use in beginner rules.
+6. In the middle of the table is the arena, where exchanges will be fought! Start all exchanges close to the centre of the table as they expand outwards.
+
++--------------( Pl. B )--------------+
+|              [][][][]               |
+| []-discardPileB        RoundPileB-[]|   
+| []-InjuryPile          Range Card-[]|
+| []-RoundPileA         DiscarPileB-[]|
+|              [][][][][]             |
++--------------( Pl.A )---------------+
+
+2.2 First Turn
+.1 The player with the highest strategy stat takes the Initiative (the first turn).
+.2 If this stat is equal, decide who starts with the Initiative by hiding the range marker in one hand, presenting both, and letting the opponent guess which contains the marker.
+.3 On the range card, place the range marker on Out of Range 
+
+2.2.1 Turn Options
+On your turn, choose one:
+A. *Attack* -Begin a combat exchange
+S. *Shift* -Change the distance between you and your opponent. Move the Range Marker. 
+C. *Circle* -Take no action but you can either draw or discard a card from your hand into the Discard Pile
+- You may each need to Circle for the first few turns until your hand grows.
+
+
+
+
+2.3 Combat (Beginner)
+2.3.1 Attack Cards
+Let's look at the basic attributes of an Attack card:
+Range: Each Attack card has a range or ranges at which it can be played, so you must be in the correct range, according to the Range Card, to play that Attack. 
+Alignment: Each Attack card also has alignments. 
+Angle: Vertical or Horizontal
+Zone: Inside, Middle, Outside
+Damage: Each Attack card has a number defining the potential Damage it could do.
+Qualities: Most Cards list other special rules as well, but ignore those for beginner mode.
+The Attack card you chose should be placed centrally on the table, face up. You have begun an Exchange and the fighters are now Engaged!
+
+2.3.2 Block Cards
+To respond, your opponent can assess the Attack and respond in the same turn, probably with a block of somekind (or an attack to be used as a block if pressed).
+
+Block cards also have a range, alignment, and some have Qualities, but no Damage.
+If the opponent has a Block at this range, then they can quickly assess its alignment against the Attack, preventing any Damage.
+Blocking by opossing Angles:
+    * Vertical Block beats a Horizontal Attack
+    * Horizontal Block beats a Vertical Attack
+Or Blocking by blocking in the related zone (Outside blocks beat Outside Attacks et.)
+
+A Blocking card is played opposite the relevant Attack but rotated 90 degrees to visually signify it is a Block (especially if its actually an attack card being used as a block).
+
+A Hard Block will list one alignment, and if that beats the corresponding attack it will Block in full. There are hundreds of hard block combinations.
+A Soft Block will always block any attack, but it only stops half of the damage (so if the attack damage is 10 you always take 5)
+An Attack used as a Block Has two alignments, zone and angle. Each stops 50% of Attack dammage so it might block half or all of the dammage depending on how well it aligns. 
+No block... All the damage.
+
+2.3.3 Resolving the Exchange.
+
+Once you have played your block, the exchange can be resolved. Subtract any leftover dammage from the defender health pool, discard the cards into your respective discard piles, and the turn ends.
+
+Just to be clear, the exchange is begun and finalised within one player's turn. Multiple exchanges may be resolved within one turn, and this can draw out quite a bit in full-rules matches. Regardless, the fighters are effectively still Engaged. 
+
+2.3.4 Technical Points
+In addition to scoring Damage, an exchange where a player does any dammage is rewarded with 1 technical point (just one). Dammage and technical notes are very worthwhile.
+
+    Tip - Always track both player's dammage tally and technical scores in your own notes and compare frequently to avoid confusions. 
+
+2.4 Next Turn
+The first exchange in this Engagement is complete. 
+In simple rules, initiative always naturally swaps to the other player for the next turn.
+However, while the exchange is complete, the fighters will remain "engaged", that is "trading blows". This means players can no longer choose to Circle (to discard or draw cards) while an engagement is taking place.
+The engagment only ends when one of the players changes range.
+
+The player who takes the next turn has limited options:
+* they might elect to continue the engagement by striking back with a suitable Attack card.
+* they might elect to Shift -to change range. This will end the turn, but it will also end the current engagement and allow Cirling. 
+
+2.4.1 Shift 
+If a player elects to Shift range, do the following. 
+* They may move the range marker one place on the range card.
+* Double check you have noted all the Damage and points scored in each exchange withing the engagement.
+* All the played cards can then be moved to player s respective discard piles (face up).
+* The other player now takes their turn at the new range, changing everyone's options.
+
+2.4.2 Circling
+If the fighters are not engaged, the player can elect to "Circle" or draw fresh cards. Drawing cards has two methods:
+  Draw 1 card from your Round Pile
+    OR
+  Discard 2 cards from your hand (first) to replace them with 3 cards drawn from your round Pile.
+
+Any discarded cards should go into your discard pile.
+
+2.4.3 Sen No Sen
+You may find that if the players disagree about what range they want, the turns can devolve into closing and expanding range back and fourth forever. However, this is predicatable. If your opponent shifts or circles three turns in a row, your fighter can predict their next move and intercept.
+This is called Sen No Sen (initiative without seeing).
+If you claim Sen No Sen, and it is shown that the opponent shifted or circled three times in a row, you may claim a free action (from Circle or Shift) before taking your actual turn. 
+
+
+2.5 Winning a Round
+Use your pen and paper to keep track of things, especially the Damage AND technical points. (Reminder - Each exchange that successfully results in any Damage also scores 1 Technical Point for the player.)
+
+* If an attacker reduces an opponent's health to 0, the attacker immediately wins the round.
+* If a player runs out of attack cards to play in the Round Pile and is unable to do damage, they have not lost, but they are Gassed Out -out of Stamina. They must play on (or submit).
+* If both players are Gassed Out before one of the fighters reaches 0 HP, the player who scored the most technical points wins (irrespective of Damage scores). 
+* Sometimes it is worthwhile for a player to not submit, even if Gassed Out.
+* If the players have even technical scores, compare remaining damage.
+* If there is still no solution then neither fighter wins.
+
+Once the round is declared, discard all the cards on the table AND all the cards in play, all the cards in your hand, and all the cards remaining in the RoundPile. 
+
+2.6 Playing a Match
+
+A match is the best of three rounds. 
+* At the start of each round the players' each draw a fresh Round-Pile from their deck, up to their stamina value (or less). 
+* If a fighter runs out of deck cards, they simply must play on with less cards and risk being Gassed Out.
+* The player who is the first to win two rounds, wins the match.
+
+2.6.1 Match Strategy
+Longevity is one concern with deck building. Some deck builds will have better longevity, some will focus on doing early Damage, some will focus on scoring points, and some will focus on Blocking. Introducing special rules will make the deck building element much more complex.
+
+With one or two beginner matches under your belt, you might feel like taking on the beginner game with the Qualities on your cards, Injury Cards, or you might feel comfortable enough to get into the full ruleset. You might try the digital game!
+
+3 Standard Rules
+3.1 Fighter Creation
+A fighter is more than just statistics. They have back stories, specific styles, and signature moves that define them and their approach to fighting.
+In any case, the basic stats of Conditioning + Stamina + Strategy must equal 70.
+* Conditioning defines the total number of basic cards in the Deck and the Fighters health for one round. 
+* Stamina defines the maximum number of cards drawable for a Round-Pile and the number of force cards the deck may have. 
+* Strategy defines: 
+o The maximum number of cards that can be held in the hand at once, and the number of Technique Cards that can be in the deck.
+*A deck may have 1 Knockout Card. 
+* The maximum number of multiples of any card a deck may have is 3, except Knockout Cards.
+
+3.1.1 Basic Cards and Special Cards 
+Cards are either Basic Cards or Special Cards
+Basic Cards (pale) include all Basic Blocks and Attacks. 
+Special Cards (dark) include Knock Outs, Techniques, and Force Cards.
+
+
+//This Styles section is not implemented yet and is not finalised. Included here for your feedback/insight
+  3.1.2 Style Insights
+  A fighting style, like boxing or judo, teaches a very specific skillset, which might have pros or cons reflected in the limited cards available and the affinities of those cards. However, that training also offers deeper insights allowing for some awesome feats. Specialised style fighters may choose certain bonus insights.
+  * A Mixed Fighter, who chooses cards from across 3 or more Styles, enjoys breadth in their training, but no deeper insights from any Style.
+  * A Specialised Fighter selects their cards from entirely 2 Styles. Their insights allow them to choose a free bonus Special Card from either style and to select a Signature Move.
+  * A Style Fighter selects their card from entirely 1 Style. Their focussed insights allow them to choose add a bonus Special Card from that style, select a Signature Move, and add a second unique Knockout Card to their deck.
+
+  3.1.3 Signature Moves
+  A signature move is that one special move a fighter has drilled beyond reason or doubt. It is a part of their psyche and has become visibly associated with their entire approach to fighting. This is the fighter's most-practiced move and it doesn't change for this fighter between rounds, matches, or tournaments. If your style choice allows a Signature Move, consider the following:
+  Select 1 Basic Card and 1 Force card (from your completed deck) and set them aside on the table. 
+  o They are kept separate to the Round-Pile, face up, and visible.
+  o These can be played any time, twice per match before discarding (rotate 90 degrees after first play to signify one use instead of discarding)
+  o They MUST be played together as one and discarded together.
+  o They cannot be used with a Knockout (??)
+//End Styles section
+
+
+3.2 Exchanges and Engagements
+An exchange begins when an Attack is played and is resolved within that same turn, even where multiple cards are played by either fighter.
+* If an Attack is played, often with followup cards, an exchange begins and must be resolved before the end of the turn.
+* The defender plays 1 block card (to defender against all of the attack's played)
+* Certain card Qualities, like followup, allow attacks to be played with the defense card. These attacks will form the beginning of a new exchange in the turn, to which the first player will have to play a defense (and this may go on before the turn has ended)
+* Each exchange is worth 1 technical point to whoever does any damage. It is not impossible for both players to score 1 technical point, or neither.
+* The turn ends when there are no further exchanges to resolve.
+
+3.2.1
+When the fighters are exchanging blows, they are engaged in direct combat, and unable to escape it easily. 
+* The fighters may remain engaged between exchanges and turns. 
+* An engagment begins when an exchange is started
+* An engagement continues at that range after the exchanges are resolved
+* The engagment is over when one of the fighters Shifts as their turn
+
+
+
+At the beginning of their turn while not engaged:
+* Fighters are not in direct contact, and are free to Shift, Circle, Play Special Cards, or Begin an Exchange by attacking.
+
+During an Exchange: 
+Fighters are entirely consumed in fighting. They can play cards but cannot choose to Shift or Circle. Some techniques can be played during exchanges.
+
+While engaged:
+* Fighters are mostly consumed with fighting and cannot "Circle" to draw cards. They can Shift range, Play Special Cards, and begin new Exchanges.
+ 
+3.3  Qualities
+Many Attacks and Blocks have certain Qualities marked as keywords. These qualities affect player balance (forcing them to skip turns), movement bonuses, or allow attacks to be chained together. Some cards may combine multiple qualities.
+
+3.3.1 Balance Breaking Qualities
+The Initiative, or the player who takes the next turn, does not always swap naturally between turns.
+It can be affected by the fighter's Balance being Broken by breaking qualities.
+
+*"Breaks": The main Quality that breaks balance is "Breaks". This attack will break the balance of a defender unless the attack is Fully Blocked, or a Partially Block with a card that also has a Balance Breaking Quality. 
+* If a player has their broken balance, they loose their turn. 
+* Should both players have their Balance Broken in an exchange, Initiative swaps naturally.
+
+*"Committed": This works like "Breaks" but if prevented by the block, will cause the attacker who played it to lose balance (over-commitment).
+
+3.3.2 Follow Up
+* Allows chaining multiple Attacks after the card played.
+* The defender cans till only play one Block card in response
+* All the Attacks are defended by the one Blocking card individually and then Damage and effects are tallied up.
+* Followup attacks added to a Block card are held aside and start a new exchange after the current one is resolved.
+
+3.3.2 Draws and Drives
+* This move includes changing the range of the combat. This effect is immediate.
+* If the range does change mid-exchane, the defender has to block at the new range.
+* Draws and Drives does not cause the engagment to end.
+* Once a defense is played that conforms to the new range, it still blocks all the cards in the attack, regardless of their stated ranges.
+
+3.3.3 Knockout
+* This attack will knock the opponent out unless blocked, and end the round.
+
+3.4 Special Cards
+Special cards that aren't an Attack or Block. These may be played in a variety of ways, such as a Force card alongside an Attack or a Technique played during the opponent's turn. Some are played as the turn itself, such as Psyche. Read each card carefully or you might miss your opportunity.
+
+3.4.1 Knock Out Cards
+Knock Outs are force cards played alongside compatible Attacks to make them round ending finishing moves. Any attack played alongside this card has the Knock Out quality (3.3.3).
+KnockOuts list very specific conditions to be able to be played. However, if unable to be at least partially Blocked, they can win the entire round instantly.
+
+3.4.2 Force Cards
+Force is an uniquely palpable concept to a martial artist. It is meditated upon, manipulated, and deeply sensed. As such, the management of forces is a key part of any martial artist's practice.
+
+3.4.2.1 Enhancing strikes
+Force cards usually imply a body force or direction (or both), like "Spinning". Thus, a Force Card can be played alongside an Attack Cards as Damage multiplier, or to add extra Qualities to them. This is how you might perform a "Spinning Backfist" or a "Flying Elbow".
+
+Each Force Card lists compatability requirements to identify a suitable basic attack.
+
+- Add the dammage and other features to the original attack's damage and features to form a devastating composite attack.
+- To do this, simply play the two cards on top of each other as one in the exchange.
+- Force cards are not stackable. Only one per attack. 
+- Force cards are not compatible with blocking.
+- You can use a force card to enhance a FollowUp Attack.
+
+3.4.2.2 Force Cards as discards  //(Not Yet Implmented)
+Mastery of the bodie's various forces can make the seemingly impossible, possible. When you are Circling, and discard 2 to draw 3, each Force Card you discard with the FollowUp Quality will increase your draw number by one. 
+-if you chose to Circle and discard a Block, and a Force Card with FollowUp, you may draw FOUR cards from your discard pile.
+  
+3.4.2.3 Force Cards in Shifting  
+In a balanced body, force and movement are one. Force cards with Drives or Draws qualities can be played with the corresponding Shift (Drives with Expands, Draws with Closes) action to allow the drawing of 2 new cards.  
+
+3.4.3 Special Techniques
+Special Techniques go beyond attacks and blocks. These techniques are hard earned mastery of the psychological and strategic element of battle. Defeat the mind and the body will fall. Special Techniques work in a rande of ways, and can be played various times in the match. Read your techniques carefully so you don't miss the opportunity. 
+
+There are some vague categories. 
+- Some Techniques, like 'Iron Shirt' play like an Block or Attack. 
+- Some techniques, like 'Efficiency', force you or your opponent to discard or draw cards. 
+- Some Techniques, like 'Anticipate' interrupt, such as preventing the opponent from successfully - playing their technique.
+- Some Techniques, like 'Iron Jaw' play as a ongoing effect while held.
+
+Special Techniques can be very powerful if used well.
+
+
+3.5.1 Winning
+Win a round by:
+* KO (health reaches 0)
+OR
+* TKO (technical points)
+* An sudden KnockOut wins the entire match
+
+4. Injurys
+
+In addition to having HP ground down, fighters are often faced with significant injuries. This is represented in RYÛKO by Injury Cards. Break or be Broken...
+
+Injury Cards are drawn by the defender whenever a single attack card does more dammage than conditioning allows. There are several thresholds for Injury, when dammage is greater than 1/5, 1/4, 1/3, and 1/2 of the Conditioning Stat of the fighter. This stacks, so single heavy blows may cause up to 4 Injury Draws.
+A player with Conditioning 40 will have to draw Injury Cards on dammage over 8, 10, 13 and 20hp. 
+
+If the defender must draw an injury card from the shared Injury Card pile, it is compared to the attacking card's listed injuries. If it matches and of the listed Injuries, the Injury Card is shuffled into the Round Pile of the fighter. If it does not, the player may return it to the bottom of the Injury Pile and "Shrug it off".
+
+If the player later draws these cards into their hand, the effects of the injury begin.
+
+Concussion - Whilst Holding: Discard Actions, and Technique Cards consume HP on use. Cannot discard without Technique Card
+
+Leg injury angle - Whilst Holding: Shifting Actions, Drives and Draws cards consume HP to play. Cannot discard without Kick Attack Card.
+
+Arm injury angle - Whilst Holding: Blocks consume HP to play. Cannot discard without Strike Attack Card
+
+Torso Injury Angle - Whilst Holding: Force Cards, Breaks, Committed, and Knockout consume {damage} HP to play. Cannot discard without Trap Attack Card
+
+Open Wound - Whilst Holding: Sen No Sen actions are forfeited. Lose HP per fighter turn. Cannot discard without another Basic Card
+
+Bruise - A minor but painful injury. Cannot discarded without discarding another card
+ 
+Accumulative effect - If a player's hand consists entirely of injury cards at the start of any turn, this will be treated as an effective KnockOut.
+
+Old Injuries - In tournament or multiple match conditions, any unplayed injury cards in the roundpile/deck at the end of the round are shuffled back into the fighters deck until consumed, even after multiple matches. 
+
+5. Mountain Tournaments
+
+In RYÛKO, there is no formal "Sport". There is only ascent. Naturally those seeking strength move up, and those seeking comfort or wealth move down. 
+
+Thus, true ascendents, seeking to break or be broken, climb where others do not. The mountains become their own tournaments. Only a few battle hardened individuals, scarred, bruised, and healed back over more times than can be remembered, find themsleves able to make the heights. Most barely make it past the foothills, and each smaller peak inevitably only sends its champions higher.
+
+  Remember, ascendant, to bring your toll. If you fall, the sherpas will bring you down, if you have it. No-one up here is murdering or stealing. There is no strength to gained from killing the fallen or taking their toll. Victors seek no such weakness. ONLY ascent.
+  Once down you must heal, eat, train, and meditate. Lament not your loss, ascendant, as I know you will fail to remove the mountain from your mind. You a driven to climb. 
+  But try to rest well. Do not limp back up the mountain. It is not the fight, nor the breaking from which we gain strength. It is the healing which rebuilds us anew. 
+  Now go, ascendant. Break or be broken...   - Ancient Sherpa
+
+The mountain tournamnet is designed for multi-session play. For ultra-competitive play these rules should be followed strictly. For casual play, everyone should agree on practical changes to the rules before playing to avoid issues later. 
+
+4.1 Tournament Planning
+
+Typically a tournament is managed by one player who also plays as a head official for casual play as well as playing the tournament. In this case any conflicts should be dealt with by vote. In formal competitive play, multiple staff, one head official and several officials may be present who are not playing in the tournament. In this case the staff distribute the authority to make decisions and resolve conflicts.
+
+4.1.1 Structure: 
+
+Mountains are unforgiving environments. Double Elimination Rounds are the preferred tournament structure. A binary number of players (2, 4, 8, 16 etc) can have a tournmanet where any player that looses twice falls, (is eliminated), until the final match at the Peak. This also garuntees each entrant two matches. However reaching a point where all entrants can fight on this peak is often a llittle more complicated.
+
+4.1.1.2 House Fighters
+
+While players would typically enter a single fighter, in casual tournaments the Head Official may have less than ideal numbers to plan for. If one or two extra fighters are required, such as in the case of having 15 entrants, the Head Official may opt to enroll an extra "House Fighter" in order to even up the numbers. This fighter will be played by an official unless it defeats an entrant, at which point the entrant's player will play the house fighter. 
+
+4.2 Multiple Pools
+Where large numbers of fighters are involved, players may find themselves spread over a number of peaks (pools), randomly, by qualifying, by style, or geographically. 
+
+4.2.1 Round Robin
+In the case of 3, 6, or 9 entrants, an initial set of three round-robin peaks (pools) to fairly indentify each peak's weakest link will result in even numbers of champions AND gaunrtee each entrant at lease 2 matches.
+
+4.2.2 Swiss Seeding
+Where pools of entrants (including a house fighter) don't nearly meet neat numbers, a Swiss Seeding Qualifier can be used. This guarantees all fighters at least 3 rounds, and an equal path to a Double Elimination Peak. Each entrant fights 2 randomly chosen other entrants. Where numbers are odd, byes count as a win however if two players have the same score but one has a bye-point the non-bye player will rank higher.
+
+The first Round is truly random pairs.
+The second round is bracketed by scores (all the 1-0 fight all the 0-0)
+The third Round is also bracketed by scores (2-0, 1-1, 0-2)
+And so on- until there is enough resolution to define the top (binary number) of fighters that will make it through to the Double Elimination Peak.
+
+4.2.3 Qualifying Draws
+A draw that will influence qualifying may need to be resolved. Points from byes can be removed, or it may also help to compare the total sum of the scores of the fighter's previous opponents. Only in the worst case should a single elimination match be played.
+
+4.2.4 The Double Elimination Peak
+
+If the numbers of entrants are refined to 2, 4, or 8, or 16... Double Elimination can be used. From this point, any fighter that loses two matches is eliminated until only one remains!
+* In the opening round, the top half of scoring fighters should be paired up against the bottom half of scoring fighters, after this, all previous scoring is ignored.
+  o The Safe Bracket is any fighter who did not loose their match.
+  o The Elimination Bracket is nay fighters did lose a match.
+* Matches are scheduled within each bracket. Safe fights Safe, Elimination Fights Elimination
+* The Peak Final when the Safe Champion Meats the Elimination Champion, regardless of an unequal number of matches to get there.
+* Officials should avoid scheduling rematches where-ever possible. 
+* For the Peak Final match, only one match is required to determine a tournament winner even if the loser has not previously lost a match. 
+
+4.3 Fighter Condition 
+
+Tournament physical Damage and mental stress causes wear and tear that can affect a fighter s performance as the tournament or campaign progresses. Their Physical Energy and Condition, and their Mental Energy and Condition.
+
+4.3.1 Player Condition between matches
+Each fighter starts the tournament at 0 points on 4 conditions, Phyical Energy, Physical Condition, Mental Energy, Mental Condition.
+1. After each match in the tournament, assess your fighters condition according to this chart: 
+o The Match went to three rounds: -1 Physical Energy Point
+o Gassed Out in any round: -1 Physical Energy Point
+o Lost by Damage: -1 Physical Conditioning Point
+o Lost by injuries: -1 Physical Conditioning Point
+o Lost by points: -1 Mental Conditioning Point
+o Lost in two rounds: -1 Mental Conditioning Point
+o Was Knocked Out: -1 Mental Energy Point
+o Took > 12 damage in a single Attack: -1 Mental Energy Point
+
+2. A fighter may then choose one from the following recovery actions after a match
+Stretch     - Improves Physical Condition +1
+Hydration   - Improves Physical Energy +1
+Meditate    - Improves Mental Conditioning +1
+Sleep       - Improves Mental Energy +1
+
+Once this is done, the player should refer to the chart below, take the specified Condition Cards, and shuffle them into their deck for the next match. The condition scores stack, so if a fighter has a Physical Condition of +2 (or higher), then they put both a Primed and an Untouched card into their deck.
+
+Condition Cards
+
+Physical Energy
++2 Revitalised -Play this card alongside any basic card to use it when outside of its range. Not compatible with Special Cards
++1 Energised -Immediately trade this card with the last card you discarded. 
+-1 Weary -Discard this card as soon as you have any force card in your hand and discard one force card as well.
+-2 Fatigued -You cannot play or discard this card. It stays in your hand for the remainder of the round.
+
+Physical Condition
++2 Untouched -Play this card with a knockout. If it fails, still cause a Concussion injury
++1 Primed -Play this card to remove all injuries in your hand.
+-1 Bruised -Immediately discard one Block card. If you don't have one in your hand, keep this card until you do.
+-2 Battered -You feel pale. discard this card and lose 2hp immediately.
+
+Mental Energy
++2 Enlightened -Play this card with any block to garuntee the Initiative in the next turn andignore all balance rules.
++1 Alert -Play this card with any block or attack to restore your Broken Balance.
+-1 Clouded -At the start of your next turn, you must play this card and forfeit the turn.
+-2 Overwhelmed -While this card is in your hand, you cannot take the Initiative for the rest of the round. To discard it, you must break your opponent's balance.
+
+Mental Condition
++2 Arrogant -Play this card when circling to draw 3 cards instead of 1. If your hand is overloaded, you don't have to discard until the end of the next engagement. 
++1 Assured -Immediately play this card and choose a card from your Round-Pile. Reshuffle the Round-Pile after that.
+-1 Demoralised -Immediately discard 2 cards and this card from your hand.
+-2 Humiliated -You must immediately reveal your hand to your opponent until they say "thankyou", then discard this card and draw another.
+
+
+5. Digital Game
+The current digital game allows a human or NPC based player to face off using a rnadomly built deck of cards. 
+There are two fighters, Dragon and Tiger.
+
+Dragon's Stats are Conditioning 40, Stamina 20, and Strategy 10.
+
+Tiger's Stats are Conditiong 42, Stamina 19 and Strategy 9.
+
+The game will keep track of scoring and Injurys. Your main role will be to select the crads from the hand. Cards that are playable will be highlighted to assist new players identify useful actions or combinations.
+
+                   ____ _ _ _ ^ _ _  _ ____
+╔═══════════════[  |--<  Y  |___| |-:_ [__]   ]═══════════════╗  *1
+║                                                             ║  
+║   Dragon® HP:30 Hand:3 Draw:8  |  Tiger HP:2 Hand:4 Draw:6     *2
+║             Round:2 Turn:13 | Fighters Are Engaged             *3
+║           Range: Grappling | [STRIKING] | Extended             *4
+╠═════════════════════════════════════════════════════════════╣
+║ Current Exchange:                                              *5 
+║   Attack: [Trap Attack|10|Horizontal,Inside|Striking|None]
+║   Defence: [Kick Attack|8|Horizontal,Middle|Striking|FollowUp]
+╠═════════════════════════════════════════════════════════════╣
+║ Tiger is taking their turn...                                  *6   
+Y═════════════════════════════════════════════════════════════Y
+'
+2- The colour of the border represents the fighter whose turn it is
+2- Draw is the number of cards left for this round.
+2- HP is health, Hand is the number of cards in each fighter's hand
+2- coins, "®" demonstrate who won the previous rounds in the match (best of three)
+3- When fighters are "Engaged" Circling (drawing Cards) isn't possible
+4- Range limits what cards are playable
+5- Once an exchange had begun, attacks and blocks will display here
+6- NPCs wont reveal their hand, but if in your turnthey are visible and playable cards are highlighted.
+
+Sometimes the post exchange breakdown will take more than 1 screen, so expect to have to scroll back at times to see accurate feedback.
+Each Round, the game draws your maximum number of cards for the round, in both player's cases this doesn't work out excatly to three rounds.
+
+We hope you enjoyed this little slice of the development so far. Please send feedback or bug reports and game_log.txt to evilghandi(a)hotmail.com".
+
+Some future developments may include actual graphics, more cards, custom fighters, online duelling, better NPC and AI-LLM opponents, more cards, rules for custom and persistent fighters, solo campaign, martial arts styles and mixed fighters, MORE CARDS, and massive mountain tournaments!
+
+Break or be Broken!
+        
